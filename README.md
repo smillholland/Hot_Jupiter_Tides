@@ -3,6 +3,6 @@ This repository contains supplementary material to the paper Millholland, S., Ma
 
 The Jupyter notebook entitled "HJ_Population_Toy_Model.ipynb" contains a demonstration of a toy model of simulated hot Jupiter populations that explores population-level features of tidal decay. This reproduces Section 2, Figure 2. 
 
-The Jupyter notebook entitled "PDE_Solution.ipynb" contains an example of the numerical PDE solution to the continuity equation in equation 11. It reproduces Section 3, Figure 4.
+The Jupyter notebook entitled "PDE_Solution.ipynb" contains an example of the numerical PDE solution to the continuity equation (equation 11). It reproduces Section 3, Figure 4.
 
 If you have any questions, please email me at sarah.millholland@mit.edu.
