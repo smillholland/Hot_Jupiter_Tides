@@ -5,4 +5,4 @@ The Jupyter notebook entitled "HJ_Population_Toy_Model.ipynb" contains a demonst
 
 The Jupyter notebook entitled "PDE_Solution.ipynb" contains an example of the numerical PDE solution to the continuity equation in equation 11. It reproduces Section 3, Figure 4.
 
-If you have any questions, please don't hesitate to email me at sarah.millholland@mit.edu.
+If you have any questions, please email me at sarah.millholland@mit.edu.
