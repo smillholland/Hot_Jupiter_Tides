@@ -1,5 +1,5 @@
 # Tidal Dissipation in Hot Jupiter Host Stars
-This repository contains supplementary material to the paper Millholland, S., MacLeod, M., & Xiao, F. 2025, ApJ, in press, Empirical Constraints on Tidal Dissipation in Exoplanet Host Stars. The code found here reproduces some of the figures in the paper. 
+This repository contains supplementary material to the paper "Empirical Constraints on Tidal Dissipation in Exoplanet Host Stars," Millholland, S., MacLeod, M., & Xiao, F. 2025, ApJ, in press. The code found here reproduces some of the figures in the paper. 
 
 The Jupyter notebook entitled "HJ_Population_Toy_Model.ipynb" contains a demonstration of a toy model of simulated hot Jupiter populations that explores population-level features of tidal decay. This reproduces Section 2, Figure 2. 
 
